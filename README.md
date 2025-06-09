@@ -37,20 +37,12 @@ All images, logos, and UI elements in this app were **designed and implemented a
 **Latest APK Download:**  
 [Download the latest APK from Google Drive](https://drive.google.com/drive/folders/1QtRzfJ8wZAWeigDCpOEOKQ6JYy_PZTUJ)
 
-### **How to Install and Use the App:**
+## How to Install and Use the App:
 
-1. **Download the APK**
-   - Click the link above to open the Google Drive folder.
-   - Right-click on the APK file and select **Download**.
-2. **Transfer to Your Android Device**
-   - Move the APK to your phone via USB, email, or cloud storage.
-3. **Install the APK**
-   - On your device, open the APK file.
-   - If prompted, allow installation from unknown sources.
-   - Complete the installation process.
-4. **Launch the App**
-   - Open the app from your app drawer.
-   - Explore the custom-designed catalog interface, browse products, and zoom product images.
+- Download the APK from Google Drive.
+- Transfer the APK to your Android device (USB, email, or cloud).
+- Open the APK on your device, allow installation from unknown sources if prompted, and install.
+- Launch the app from your app drawer and explore the catalog, browsing and zooming product images.
 
 ---
 
